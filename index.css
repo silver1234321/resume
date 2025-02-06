@@ -29,7 +29,7 @@ button:hover{
     color:pink;
 }
 #text{
-    z-index: -1;
+    z-index: 1;
     position: absolute;
     top: 100px;
     left: 10px;
