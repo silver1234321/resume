@@ -40,6 +40,7 @@ button:hover{
 .heart {
     animation: glow 1.5s ease-in-out none infinite ;
     z-index: 2;
+    position: relative;
 }
 .hidden{
     opacity: 0%;
