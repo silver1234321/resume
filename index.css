@@ -1,6 +1,5 @@
-body{
+html{
     background-color: rgb(41, 7, 41);
-    height: 20000px;
 }
 .main{
     display: flex;
